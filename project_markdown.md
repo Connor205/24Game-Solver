@@ -84,39 +84,38 @@ sub-areas via their self-evident description and the criteria outlined
 in the following sections. Pay special attention to the style and
 grammar section as outlined in the below description.
 
-| REPORT CONTENT             | Missing | Beginning / Developing | Meets Expectations | Excellent / Advanced |
-|----------------------------+---------+------------------------+--------------------+----------------------|
-| General problem area       |         |                        |                    |                      |
-| Approach                   |         |                        |                    |                      |
-| Methodology                |         |                        |                    |                      |
-| Metrics                    |         |                        |                    |                      |
-| Summary                    |         |                        |                    |                      |
-|----------------------------+---------+------------------------+--------------------+----------------------|
-| SOFTWARE                   | Missing | Beginning / Developing | Meets Expectations | Excellent / Advanced |
-|----------------------------+---------+------------------------+--------------------+----------------------|
-| Well-written documentation |         |                        |                    |                      |
-| Source code                |         |                        |                    |                      |
-| Tests                      |         |                        |                    |                      |
-| Incidental code quality    |         |                        |                    |                      |
-|----------------------------+---------+------------------------+--------------------+----------------------|
-| REPORT STYLE/WRITING       | Missing | Beginning / Developing | Meets Expectations | Excellent / Advanced |
-|----------------------------+---------+------------------------+--------------------+----------------------|
-| Organization               |         |                        |                    |                      |
-| Depth/Emphasis             |         |                        |                    |                      |
-| Language                   |         |                        |                    |                      |
-| Mechanics                  |         |                        |                    |                      |
-| Minor Errors               |         |                        |                    |                      |
-|----------------------------+---------+------------------------+--------------------+----------------------|
-| PRESENTATION/DEMONSTRATION | Missing | Beginning / Developing | Meets Expectations | Excellent / Advanced |
-|----------------------------+---------+------------------------+--------------------+----------------------|
-| Organization               |         |                        |                    |                      |
-| Depth/Emphasis             |         |                        |                    |                      |
-| Program Demonstration      |         |                        |                    |                      |
-| Style                      |         |                        |                    |                      |
-| Teamwork                   |         |                        |                    |                      |
-|----------------------------+---------+------------------------+--------------------+----------------------|
-| RECEIPT                                                                                                   |
-|-----------------------------------------------------------------------------------------------------------|
+ REPORT CONTENT              Missing  Beginning / Developing  Meets Expectations  Excellent / Advanced 
+++++
+ General problem area                                                                                  
+ Approach                                                                                              
+ Methodology                                                                                           
+ Metrics                                                                                               
+ Summary                                                                                               
+++++
+ SOFTWARE                    Missing  Beginning / Developing  Meets Expectations  Excellent / Advanced 
+++++
+ Wellwritten documentation                                                                            
+ Source code                                                                                           
+ Tests                                                                                                 
+ Incidental code quality                                                                               
+++++
+ REPORT STYLE/WRITING        Missing  Beginning / Developing  Meets Expectations  Excellent / Advanced 
+++++
+ Organization                                                                                          
+ Depth/Emphasis                                                                                        
+ Language                                                                                              
+ Mechanics                                                                                             
+ Minor Errors                                                                                          
+++++
+ PRESENTATION/DEMONSTRATION  Missing  Beginning / Developing  Meets Expectations  Excellent / Advanced 
+++++
+ Organization                                                                                          
+ Depth/Emphasis                                                                                        
+ Program Demonstration                                                                                 
+ Style                                                                                                 
+ Teamwork                                                                                              
+++++
+ RECEIPT 
 
 I outline below the criteria I intend to use to assess each of the
  above-mentioned aspects of your presentation/demonstration.
